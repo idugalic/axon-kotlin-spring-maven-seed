@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class AxonKotlinSpringSeedApplication
 
 fun main(args: Array<String>) {
-    runApplication<DemoApplication>(*args)
+    runApplication<AxonKotlinSpringSeedApplication>(*args)
 }
