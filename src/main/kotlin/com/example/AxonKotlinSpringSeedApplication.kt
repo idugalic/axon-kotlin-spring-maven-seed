@@ -4,7 +4,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class DemoApplication
+class AxonKotlinSpringSeedApplication
 
 fun main(args: Array<String>) {
     runApplication<DemoApplication>(*args)
