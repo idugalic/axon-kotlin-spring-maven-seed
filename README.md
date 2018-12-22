@@ -1,6 +1,6 @@
 # axon-kotlin-spring-maven-seed
 
-This project is a [atomist] seed for creating [axon] (spring boot) projects that are driven by [maven] and written in Kotlin.
+This project is a [atomist] seed for creating [axon] (spring boot) projects that are driven by [maven] and written in [kotlin].
 
 ## Development
 
@@ -40,9 +40,7 @@ We use H2 SQL databse. Web console is enabled and it should be available on `/h2
 
 ---
 
-Created by [idugalic].
-
 [maven]: https://maven.apache.org/ (Maven)
 [atomist]: https://www.atomist.com/ (Atomist)
-[idugalic]: http://idugalic.pro/ (Ivan Dugalic)
 [axon]: https://axoniq.io/ (Axon)
+[kotlin]: https://kotlinlang.org/ (Kotlin)
