@@ -1,6 +1,10 @@
 # axon-kotlin-spring-maven-seed
 
-This project is a [atomist] seed for creating [axon] (spring boot) projects that are driven by [maven] and written in [kotlin].
+This project is a seed for creating [axon] (spring boot) projects that are driven by [maven] and written in [kotlin].
+
+A seed is a project that works as a starting point. It is real, functional code, not a template.
+
+> Additionally, you can automate your project creation within your organization by using an Atomist [Software Delivery Machine](https://github.com/idugalic/axon-sdm) generator that we provide. Generators copy the code from this seed, and then modify the code in certain ways, such as renaming classes and packages so that it’s ready to use without lots of manual find and replace. Generators frequently also configure supporting systems, for example, by creating a dedicated Slack channel, setting up issue tracking, and so on.
 
 ## Development
 
