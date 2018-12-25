@@ -1,3 +1,0 @@
-# com.example.command
-
-Command model - Aggregates, Sagas, Command Handlers, Event Sourcing Handlers, ...
