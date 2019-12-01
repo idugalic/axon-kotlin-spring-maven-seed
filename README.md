@@ -1,4 +1,4 @@
-# axon-kotlin-spring-maven-seed
+# [projects](http://idugalic.github.io/projects)/axon-kotlin-spring-maven-seed
 
 This project is a seed for creating [axon] (spring boot) projects that are driven by [maven] and written in [kotlin].
 
